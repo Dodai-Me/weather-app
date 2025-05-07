@@ -1,2 +1,8 @@
-# weather-app
-A simple weather app built with Flutter that displays real-time weather data based on the user's location. It features a clean UI and uses OpenWeatherMap API for weather information.
+# 🌦️ Flutter Weather App
+
+This is a beginner-friendly Flutter application that shows current weather conditions such as temperature, humidity, and weather description for the user's location. The app fetches live data from the OpenWeatherMap API and displays it in a clean UI.
+
+## 📱 App Components
+- 🏠 Home screen with weather details of current location
+- 📍 Location permission & detection
+- 🔍 Search by city name
