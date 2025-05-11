@@ -1,18 +1,12 @@
-HEAD
+# 🌦️ Flutter Weather App
 
-# clima
+This is a beginner-friendly Flutter application that shows current weather conditions such as temperature, humidity, and weather description for the user's location. The app fetches live data from the OpenWeatherMap API and displays it in a clean UI.
 
-A new Flutter project.
+## 🔧 Tech Stack
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 App Components
+- 🏠 Home screen with weather details of the current location
+- 📍 Location permission & detection
+- 🔍 Search by city name
