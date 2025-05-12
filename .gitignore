@@ -3,7 +3,7 @@
 *.log
 *.pyc
 *.swp
-.env
+dotenv.env
 .DS_Store
 .atom/
 .buildlog/
